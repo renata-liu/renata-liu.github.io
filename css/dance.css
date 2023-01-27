@@ -1,0 +1,39 @@
+body {
+	background:black;
+	font-family: Didot, Palatino;
+	font-size: 100%;
+	margin:0px;
+}
+
+nav{
+	margin: 1% 3%;
+}
+
+nav a{
+	float: right;
+	margin: 5px 10px;
+	text-decoration: none;	
+	color: white;
+}
+
+iframe{
+	padding: 5% 14%;
+	display: flex;
+}
+
+.active{
+	text-decoration: underline 1px;
+	text-underline-offset: 5px;
+}
+
+
+footer{
+	height: 80px;
+	background: #FFFBF6;
+}
+
+footer img{
+	padding-left: 45%;
+	display: inline-block;
+	height: 100%;
+}
